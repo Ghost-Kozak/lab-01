@@ -1,16 +1,10 @@
-<<<<<<< HEAD
 #include <iostream>
 #include <string>
 
 int main ()
 {
-	std::string name;
-	std::cout << "What is your name?" << std::endl;
-	std::cin >> name;
-	std::cout << "Hello " << name << "!" << std::endl;
+	std::cout << "Hello" << endl;
+	std::cout << "git is easy?" << endl;
 
-	return 0;
+	return 1;
 }
-=======
-
->>>>>>> 8fad538b5344e986a88e8add00b24c9e1e2bb6a5
