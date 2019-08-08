@@ -3,8 +3,7 @@
 
 int main ()
 {
-	std::cout << "Hello" << endl;
+	std::cout << "hello git" << endl;
 	std::cout << "git is easy?" << endl;
-
 	return 1;
 }
