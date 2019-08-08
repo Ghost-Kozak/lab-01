@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <iostream>
 #include <string>
 
@@ -10,3 +11,6 @@ int main ()
 
 	return 0;
 }
+=======
+
+>>>>>>> 8fad538b5344e986a88e8add00b24c9e1e2bb6a5
